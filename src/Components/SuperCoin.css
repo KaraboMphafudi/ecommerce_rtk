@@ -1,0 +1,26 @@
+.super-coin {
+  margin-top: 20px;
+  padding: 15px;
+  background: linear-gradient(135deg, #fff9e6 0%, #fff3cd 100%);
+  border-radius: 10px;
+  text-align: center;
+  border: 2px solid #ffc107;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.super-coin h3 {
+  color: #ffc107;
+  margin: 0 0 10px 0;
+  font-size: 20px;
+}
+
+.super-coin strong {
+  font-size: 28px;
+  color: #28a745;
+}
+
+.coin-note {
+  font-size: 12px;
+  color: #666;
+  margin-top: 10px;
+}
